@@ -210,3 +210,4 @@ The supplied `docs/upload-local-file.sh` provides an example of how to upload a 
 # License
 
 OpenOCR is Open Source and available under the Apache 2 License.
+# open-ocr
